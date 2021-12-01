@@ -8,5 +8,5 @@ Rajeshwer-ReddyK/Rajeshwer-ReddyK is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 GIT practice
-get updates
+get updates on git fetch & git pull commands
 
